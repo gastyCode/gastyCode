@@ -17,11 +17,11 @@
 
 **Backend:**
 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,prisma)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,laravel)](https://skillicons.dev)
 
 **Programming languages:**
 
-[![Programming Skills](https://skillicons.dev/icons?i=js,ts,cs,c,cpp,py,java)](https://skillicons.dev)
+[![Programming Skills](https://skillicons.dev/icons?i=js,ts,cs,c,cpp,py,java,php)](https://skillicons.dev)
 
 **Tools & Others:**
 

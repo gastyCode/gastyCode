@@ -50,10 +50,7 @@
 
 ## 📊 GitHub Stats
 
-![Andrej's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrejmarkus&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=andrejmarkus&theme=github_dark_dimmed)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejmarkus&layout=compact&theme=github_dark_dimmed)
 
 ---
 
